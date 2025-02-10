@@ -1,4 +1,4 @@
-# FAANG Stocks Monte Carlo Simulation 📈  
+# Risk Analysis for FAANG Stocks 📈  
 
 ## Overview  
 This project simulates future stock prices of FAANG (Facebook, Apple, Amazon, Netflix, Google) stocks using the **Monte Carlo method**. By leveraging historical stock data, we estimate future price distributions and calculate key risk metrics, such as **Value at Risk (VaR)** at a 99% confidence level.  
